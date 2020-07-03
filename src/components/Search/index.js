@@ -11,7 +11,7 @@ const Search = ({onLocationSelected}) => {
       placeholderTextColor="#333"
       onPress={onLocationSelected}
       query={{
-        key: 'AIzaSyA7yxNyUBem9aPttmpQO255NsUbycVDfQE',
+        key: 'API KEY',
         language: 'pt',
       }}
       textInputProps={{
