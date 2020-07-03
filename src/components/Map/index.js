@@ -22,7 +22,7 @@ import {
 import markerImage from '../../assets/marker.png';
 import backImage from '../../assets/back.png';
 
-Geocoder.init('AIzaSyA7yxNyUBem9aPttmpQO255NsUbycVDfQE');
+Geocoder.init('API KEY');
 
 const Map = () => {
   const [isLoading, setIsLoading] = useState(false);
